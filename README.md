@@ -1,1 +1,1 @@
-Multiclass classification project using the KNN algorithm to predict employee payment tiers based on demographic and professional data, including preprocessing, feature engineering, and model evaluation.# Data-Science-Employee-Payment-Tier-Prediction-KNN-Apr-2024
+Multiclass classification project using the KNN algorithm to predict employee payment tiers based on demographic and professional data, including preprocessing, feature engineering, and model evaluation.
